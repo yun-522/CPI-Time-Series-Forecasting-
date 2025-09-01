@@ -36,7 +36,7 @@ Due to licensing restrictions, the full dataset is **not included in this reposi
 
 ## Repository Structure  
 cpi-time-series-forecasting/  
-│── [implementation.html](./520397297%20implementation-3.html) # Code + report (Jupyter Notebook exported to HTML)  
+│── [implementation.html](https://github.com/yun-522/CPI-Time-Series-Forecasting-/blob/145e0818421f0b48e9fa387444cbd84ff2b45218/implementation.html) # Code + report (Jupyter Notebook exported to HTML)  
 │── [sample_CPI_train.csv](./sample_CPI_train.csv) # First 5 rows of training data (for illustration)  
 │── README.md # Project description  
 
