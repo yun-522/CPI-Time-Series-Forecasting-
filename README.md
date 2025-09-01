@@ -65,6 +65,9 @@ cpi-time-series-forecasting/
   - Delivered the **lowest test MSE = 1.55**, outperforming all other models.  
   - Residual diagnostics showed minimal autocorrelation, confirming good model fit.  
 
+⚠️ **Note:** The final MSE on the withheld test dataset was not computed within the submitted code.  
+The forecasts were generated and submitted, and the official MSE = **1.55** was provided later by the instructor.  
+
 ---
 
 ## Insights  
